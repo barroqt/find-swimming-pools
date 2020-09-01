@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<annotation>
+    <filename>000001361.jpg</filename>
+    <source>
+        <annotation>ArcGIS Pro 2.1</annotation>
+    </source>
+    <size>
+        <width>224</width>
+        <height>224</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>1</name>
+        <bndbox>
+            <xmin>82.96</xmin>
+            <ymin>49.31</ymin>
+            <xmax>94.07</xmax>
+            <ymax>60.42</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>1</name>
+        <bndbox>
+            <xmin>81.21</xmin>
+            <ymin>36.46</ymin>
+            <xmax>92.32</xmax>
+            <ymax>47.57</ymax>
+        </bndbox>
+    </object>
+</annotation>
